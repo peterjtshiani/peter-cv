@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "my online portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\\\"error:no test specified\\\"&&exit1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "task",
+    "15"
+  ],
+  "author": "Peter J. Tshiani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
